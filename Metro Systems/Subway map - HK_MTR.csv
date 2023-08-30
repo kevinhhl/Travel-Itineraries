@@ -1,121 +1,121 @@
-Line,Station Name,Count,GPS
-Island line,Kennedy Town,1,"22.281395595863863, 114.12888249660693"
-Island line,HKU,1,"22.28415274804578, 114.13505272544363"
-Island line,Sai Ying Pun,1,"22.285721601051034, 114.14276518311671"
-Island line,Sheung Wan,1,"22.286708990200815, 114.15188212544355"
-Island line,Central,2,"22.282023983036424, 114.15824851106498"
-Island line,Admiralty,4,"22.27943338079733, 114.16456477223029"
-Island line,Wan Chai,1,"22.277747367445777, 114.17320003455822"
-Island line,Causeway Bay,1,"22.280401713303807, 114.18504178407522"
-Island line,Tin Hau,1,"22.282438202204943, 114.19172676621342"
-Island line,Fortress Hill,1,"22.28802953163302, 114.19356048922197"
-Island line,North Point,2,"22.29130732836515, 114.200499261953"
-Island line,Quarry Bay,2,"22.287902212602727, 114.20975032630415"
-Island line,Tai Koo,1,"22.284661522526584, 114.21635740633985"
-Island line,Sai Wan Ho,1,"22.282120024059928, 114.22190557010832"
-Island line,Shau Kei Wan,1,"22.279259105283813, 114.22887901579921"
-Island line,Heng Fa Chuen,1,"22.276835371563905, 114.23991119621945"
-Island line,Chai Wan,1,"22.264653404192856, 114.2371441898464"
-Tsuen Wan Line,Tsuen Wan,1,"22.373688344050752, 114.11771503942767"
-Tsuen Wan Line,Tai Wo Hau,1,"22.37079982169754, 114.1250600180785"
-Tsuen Wan Line,Kwai Hing,1,"22.363068122617445, 114.13121018967321"
-Tsuen Wan Line,Kwai Fong,1,"22.356849398976355, 114.12781540423163"
-Tsuen Wan Line,Lai King,2,"22.348432787643038, 114.12615760630483"
-Tsuen Wan Line,Mei Foo,2,"22.33760671905558, 114.13799329803591"
-Tsuen Wan Line,Lai Chi Kok,1,"22.33728694364424, 114.14803290356096"
-Tsuen Wan Line,Cheung Sha Wan,1,"22.335625023692156, 114.15599729105797"
-Tsuen Wan Line,Sham Shui Po,1,"22.330804434030153, 114.16226781427939"
-Tsuen Wan Line,Prince Edward,2,"22.325111585583276, 114.16839478086393"
-Tsuen Wan Line,Mong Kok,2,"22.319259707111495, 114.16935522143464"
-Tsuen Wan Line,Yau Ma Tei,2,"22.312853923734078, 114.17067225983529"
-Tsuen Wan Line,Jordan,1,"22.304819783331922, 114.17165894652133"
-Tsuen Wan Line,Tsim Sha Tsui,1,"22.29759795731131, 114.17220937326601"
-Tsuen Wan Line,Admiralty,4,"22.27943338079733, 114.16456477223029"
-Tsuen Wan Line,Central,2,"22.282023983036424, 114.15824851106498"
-Kwun Tong Line,Tiu Keng Leng,2,"22.304682001549697, 114.25285616777106"
-Kwun Tong Line,Yau Tong,2,"22.29814920927866, 114.23696310787146"
-Kwun Tong Line,Lam Tin,1,"22.306759577584934, 114.23369772693503"
-Kwun Tong Line,Kwun Tong,1,"22.312232641633827, 114.22634609270925"
-Kwun Tong Line,Ngau Tau Kok,1,"22.31551821232836, 114.21912733220542"
-Kwun Tong Line,Kowloon Bay,1,"22.323281790670393, 114.21396005355753"
-Kwun Tong Line,Choi Hung,1,"22.334924751099912, 114.20899179191676"
-Kwun Tong Line,Diamond Hill,2,"22.34006138815456, 114.20169219148652"
-Kwun Tong Line,Wong Tai Sin,1,"22.34168878707083, 114.19384591919903"
-Kwun Tong Line,Lok Fu,1,"22.338057362842168, 114.18702101386019"
-Kwun Tong Line,Kowloon Tong,2,"22.337180845267284, 114.17608966936776"
-Kwun Tong Line,Shek Kip Mei,1,"22.332129223402323, 114.16880171473741"
-Kwun Tong Line,Prince Edward,2,"22.325111585583276, 114.16839478086393"
-Kwun Tong Line,Mong Kok,2,"22.319259707111495, 114.16935522143464"
-Kwun Tong Line,Yau Ma Tei,2,"22.312853923734078, 114.17067225983529"
-Kwun Tong Line,Ho Man Tin,2,"22.309397850042657, 114.18271697498726"
-Kwun Tong Line,Whampoa,1,"22.30505263294831, 114.18954819350483"
-South Island Line,Admiralty,4,"22.27943338079733, 114.16456477223029"
-South Island Line,Ocean Park,1,"22.24887532068708, 114.17445362544261"
-South Island Line,Wong Chuk Hang,1,"22.24802212682689, 114.16802073791632"
-South Island Line,Lei Tung,1,"22.24196472672295, 114.15610271027897"
-South Island Line,South Horizons,1,"22.242892922246956, 114.1487569686919"
-Tseung Kwan O Line,LOHAS Park,1,"22.296545793169454, 114.26961319660745"
-Tseung Kwan O Line,Po Lam,1,"22.322659851850254, 114.25785345428099"
-Tseung Kwan O Line,Hang Hau,1,"22.315620456796513, 114.26439526685506"
-Tseung Kwan O Line,Tseung Kwan O,1,"22.30757399026679, 114.26002812544415"
-Tseung Kwan O Line,Tiu Keng Leng,2,"22.304682001549697, 114.25285616777106"
-Tseung Kwan O Line,Yau Tong,2,"22.29814920927866, 114.23696310787146"
-Tseung Kwan O Line,Quarry Bay,2,"22.287902212602727, 114.20975032630415"
-Tseung Kwan O Line,North Point,2,"22.29130732836515, 114.200499261953"
-Tung Chung Line & Disneyland Resort Line,Hong Kong,2,"22.284859674702876, 114.15821991195308"
-Tung Chung Line & Disneyland Resort Line,Kowloon,2,"22.30452435400688, 114.16150718311712"
-Tung Chung Line & Disneyland Resort Line,Olympic,1,"22.318001981976927, 114.16012496777142"
-Tung Chung Line & Disneyland Resort Line,Nam Cheong,2,"22.32696574532539, 114.15369062544458"
-Tung Chung Line & Disneyland Resort Line,Lai King,2,"22.348432787643038, 114.12615760630483"
-Tung Chung Line & Disneyland Resort Line,Tsing Yi,2,"22.358706146895347, 114.10762908126284"
-Tung Chung Line & Disneyland Resort Line,Sunny Bay,1,"22.331869917848678, 114.02899288311775"
-Tung Chung Line & Disneyland Resort Line,Disneyland Resort,1,"22.3154833088455, 114.04523051195395"
-Tung Chung Line & Disneyland Resort Line,Tung Chung,1,"22.289413814503636, 113.94145725428008"
-East Rail Line,Admiralty,4,"22.27943338079733, 114.16456477223029"
-East Rail Line,Exhibition Centre,1,"22.282330105628983, 114.1754902677706"
-East Rail Line,Hung Hom,2,"22.303098430019105, 114.18215364079015"
-East Rail Line,Mong Kok East,1,"22.32221870203128, 114.17261072544441"
-East Rail Line,Kowloon Tong,2,"22.337180845267284, 114.17608966936776"
-East Rail Line,Tai Wai,2,"22.37287574068114, 114.17865961195525"
-East Rail Line,Sha Tin,1,"22.381982309038754, 114.18700885428252"
-East Rail Line,Fo Tan,1,"22.395270552822698, 114.19809378126372"
-East Rail Line,Racecourse,1,"22.40128136389471, 114.20340542544648"
-East Rail Line,University,1,"22.413340746670357, 114.20995552544683"
-East Rail Line,Tai Po Market,1,"22.44472546955943, 114.17048199661113"
-East Rail Line,Tai Wo,1,"22.451128383007507, 114.16126381195734"
-East Rail Line,Fanling,1,"22.492201844761215, 114.13869099661223"
-East Rail Line,Sheung Shui,1,"22.501398748249553, 114.12794999661251"
-East Rail Line,Lo Wu,1,"22.52841993251252, 114.11326830824814"
-East Rail Line,Lok Ma Chau,1,"22.515068245373854, 114.06563436777638"
-Tuen Ma Line,Tuen Mun,1,"22.39501385482054, 113.9731105389368"
-Tuen Ma Line,Siu Hong,1,"22.41191217485065, 113.97906046962927"
-Tuen Ma Line,Tin Shui Wai,1,"22.448399864827987, 114.00476205428406"
-Tuen Ma Line,Long Ping,1,"22.447797870208507, 114.0255412407937"
-Tuen Ma Line,Yuen Long,1,"22.446206571575, 114.03475946777459"
-Tuen Ma Line,Kam Sheung Road,1,"22.435023098864114, 114.06336663893784"
-Tuen Ma Line,Tsuen Wan West,1,"22.368630110486055, 114.10973718311868"
-Tuen Ma Line,Mei Foo,2,"22.33760671905558, 114.13799329803591"
-Tuen Ma Line,Nam Cheong,2,"22.32696574532539, 114.15369062544458"
-Tuen Ma Line,Austin,1,"22.3054316441883, 114.16608123893452"
-Tuen Ma Line,East Tsim Sha Tsui,1,"22.29494452783639, 114.17346388311685"
-Tuen Ma Line,Hung Hom,2,"22.303098430019105, 114.18215364079015"
-Tuen Ma Line,Ho Man Tin,2,"22.309397850042657, 114.18271697498726"
-Tuen Ma Line,To Kwa Wan,1,"22.31745885740201, 114.18766436962687"
-Tuen Ma Line,Sung Wong Toi,1,"22.326048923650426, 114.19132145428112"
-Tuen Ma Line,Kai Tak,1,"22.330728767483926, 114.19957045428113"
-Tuen Ma Line,Diamond Hill,2,"22.34006138815456, 114.20169219148652"
-Tuen Ma Line,Hin Keng,1,"22.364022495174012, 114.170768538936"
-Tuen Ma Line,Tai Wai,2,"22.37287574068114, 114.17865961195525"
-Tuen Ma Line,Che Kung Temple,1,"22.37499808580966, 114.18591008126332"
-Tuen Ma Line,Sha Tin Wai,1,"22.37720385637429, 114.19497729660948"
-Tuen Ma Line,City One,1,"22.383081348827197, 114.20373941195555"
-Tuen Ma Line,Shek Mun,1,"22.387803101481786, 114.20842409846524"
-Tuen Ma Line,Tai Shui Hang,1,"22.408593597344492, 114.22273745428322"
-Tuen Ma Line,Heng On,1,"22.417498504595926, 114.2257858273025"
-Tuen Ma Line,Ma On Shan,1,"22.425028247499192, 114.23163806777404"
-Tuen Ma Line,Wu Kai Sha,1,"22.429288737759517, 114.24381853893767"
-Airport Express,Hong Kong,2,"22.284859674702876, 114.15821991195308"
-Airport Express,Kowloon,2,"22.30452435400688, 114.16150718311712"
-Airport Express,Tsing Yi,2,"22.358706146895347, 114.10762908126284"
-Airport Express,Airport,1,"22.316056060075148, 113.93662596962693"
-Airport Express,AsiaWorld-Expo,1,"22.321022653361116, 113.94186035428092"
+Line,Station Name,Count
+Island line,Kennedy Town,1
+Island line,HKU,1
+Island line,Sai Ying Pun,1
+Island line,Sheung Wan,1
+Island line,Central,2
+Island line,Admiralty,4
+Island line,Wan Chai,1
+Island line,Causeway Bay,1
+Island line,Tin Hau,1
+Island line,Fortress Hill,1
+Island line,North Point,2
+Island line,Quarry Bay,2
+Island line,Tai Koo,1
+Island line,Sai Wan Ho,1
+Island line,Shau Kei Wan,1
+Island line,Heng Fa Chuen,1
+Island line,Chai Wan,1
+Tsuen Wan Line,Tsuen Wan,1
+Tsuen Wan Line,Tai Wo Hau,1
+Tsuen Wan Line,Kwai Hing,1
+Tsuen Wan Line,Kwai Fong,1
+Tsuen Wan Line,Lai King,2
+Tsuen Wan Line,Mei Foo,2
+Tsuen Wan Line,Lai Chi Kok,1
+Tsuen Wan Line,Cheung Sha Wan,1
+Tsuen Wan Line,Sham Shui Po,1
+Tsuen Wan Line,Prince Edward,2
+Tsuen Wan Line,Mong Kok,2
+Tsuen Wan Line,Yau Ma Tei,2
+Tsuen Wan Line,Jordan,1
+Tsuen Wan Line,Tsim Sha Tsui,1
+Tsuen Wan Line,Admiralty,4
+Tsuen Wan Line,Central,2
+Kwun Tong Line,Tiu Keng Leng,2
+Kwun Tong Line,Yau Tong,2
+Kwun Tong Line,Lam Tin,1
+Kwun Tong Line,Kwun Tong,1
+Kwun Tong Line,Ngau Tau Kok,1
+Kwun Tong Line,Kowloon Bay,1
+Kwun Tong Line,Choi Hung,1
+Kwun Tong Line,Diamond Hill,2
+Kwun Tong Line,Wong Tai Sin,1
+Kwun Tong Line,Lok Fu,1
+Kwun Tong Line,Kowloon Tong,2
+Kwun Tong Line,Shek Kip Mei,1
+Kwun Tong Line,Prince Edward,2
+Kwun Tong Line,Mong Kok,2
+Kwun Tong Line,Yau Ma Tei,2
+Kwun Tong Line,Ho Man Tin,2
+Kwun Tong Line,Whampoa,1
+South Island Line,Admiralty,4
+South Island Line,Ocean Park,1
+South Island Line,Wong Chuk Hang,1
+South Island Line,Lei Tung,1
+South Island Line,South Horizons,1
+Tseung Kwan O Line,LOHAS Park,1
+Tseung Kwan O Line,Po Lam,1
+Tseung Kwan O Line,Hang Hau,1
+Tseung Kwan O Line,Tseung Kwan O,1
+Tseung Kwan O Line,Tiu Keng Leng,2
+Tseung Kwan O Line,Yau Tong,2
+Tseung Kwan O Line,Quarry Bay,2
+Tseung Kwan O Line,North Point,2
+Tung Chung Line & Disneyland Resort Line,Hong Kong,2
+Tung Chung Line & Disneyland Resort Line,Kowloon,2
+Tung Chung Line & Disneyland Resort Line,Olympic,1
+Tung Chung Line & Disneyland Resort Line,Nam Cheong,2
+Tung Chung Line & Disneyland Resort Line,Lai King,2
+Tung Chung Line & Disneyland Resort Line,Tsing Yi,2
+Tung Chung Line & Disneyland Resort Line,Sunny Bay,1
+Tung Chung Line & Disneyland Resort Line,Disneyland Resort,1
+Tung Chung Line & Disneyland Resort Line,Tung Chung,1
+East Rail Line,Admiralty,4
+East Rail Line,Exhibition Centre,1
+East Rail Line,Hung Hom,2
+East Rail Line,Mong Kok East,1
+East Rail Line,Kowloon Tong,2
+East Rail Line,Tai Wai,2
+East Rail Line,Sha Tin,1
+East Rail Line,Fo Tan,1
+East Rail Line,Racecourse,1
+East Rail Line,University,1
+East Rail Line,Tai Po Market,1
+East Rail Line,Tai Wo,1
+East Rail Line,Fanling,1
+East Rail Line,Sheung Shui,1
+East Rail Line,Lo Wu,1
+East Rail Line,Lok Ma Chau,1
+Tuen Ma Line,Tuen Mun,1
+Tuen Ma Line,Siu Hong,1
+Tuen Ma Line,Tin Shui Wai,1
+Tuen Ma Line,Long Ping,1
+Tuen Ma Line,Yuen Long,1
+Tuen Ma Line,Kam Sheung Road,1
+Tuen Ma Line,Tsuen Wan West,1
+Tuen Ma Line,Mei Foo,2
+Tuen Ma Line,Nam Cheong,2
+Tuen Ma Line,Austin,1
+Tuen Ma Line,East Tsim Sha Tsui,1
+Tuen Ma Line,Hung Hom,2
+Tuen Ma Line,Ho Man Tin,2
+Tuen Ma Line,To Kwa Wan,1
+Tuen Ma Line,Sung Wong Toi,1
+Tuen Ma Line,Kai Tak,1
+Tuen Ma Line,Diamond Hill,2
+Tuen Ma Line,Hin Keng,1
+Tuen Ma Line,Tai Wai,2
+Tuen Ma Line,Che Kung Temple,1
+Tuen Ma Line,Sha Tin Wai,1
+Tuen Ma Line,City One,1
+Tuen Ma Line,Shek Mun,1
+Tuen Ma Line,Tai Shui Hang,1
+Tuen Ma Line,Heng On,1
+Tuen Ma Line,Ma On Shan,1
+Tuen Ma Line,Wu Kai Sha,1
+Airport Express,Hong Kong,2
+Airport Express,Kowloon,2
+Airport Express,Tsing Yi,2
+Airport Express,Airport,1
+Airport Express,AsiaWorld-Expo,1
